@@ -19,5 +19,4 @@ public class DSItems {
     public static final RegistryObject<Item> EPIC_DRAGONSEEKER = ITEMS.register("epic_dragonseeker", () -> new DragonSeekerItem(DragonSeekerItemConfig.get(DragonSeekerItem.SeekerType.Epic), Items.NETHERITE_INGOT, 256, Rarity.RARE));
     public static final RegistryObject<Item> LEGENDARY_DRAGONSEEKER = ITEMS.register("legendary_dragonseeker", () -> new LegendaryDragonSeekerItem(DragonSeekerItemConfig.get(DragonSeekerItem.SeekerType.Legendary), Items.NETHERITE_INGOT, 512, Rarity.RARE));
     public static final RegistryObject<Item> GODLY_DRAGONSEEKER = ITEMS.register("godly_dragonseeker", () -> new DragonSeekerItem(DragonSeekerItemConfig.get(DragonSeekerItem.SeekerType.Godly), Items.NETHERITE_INGOT, -1, Rarity.EPIC));
-    public static final RegistryObject<Item> MUSIC_DISC_01 = ITEMS.register("music_disc_01", () -> new RecordItem(4, DSSounds.MUSIC_DISC_01, new Item.Properties().tab(CreativeModeTab.TAB_MISC).stacksTo(1)));
 }
