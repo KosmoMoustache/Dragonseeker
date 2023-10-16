@@ -1,0 +1,20 @@
+{
+  "item.dragonseeker.dragonseeker": "Dragonseeker",
+  "item.dragonseeker.epic_dragonseeker": "Dragonseeker Epic",
+  "item.dragonseeker.legendary_dragonseeker": "Dragonseeker Légendaire",
+  "item.dragonseeker.godly_dragonseeker": "Dragonseeker Godly",
+
+  "item.dragonseeker.tooltip.detection.range": "Portée de détection : %s - %s",
+  "item.dragonseeker.tooltip.detection.detect": "Peu détecté: ",
+  "item.dragonseeker.tooltip.detection.corpse": "- Cadavres",
+  "item.dragonseeker.tooltip.detection.cave": "- Dragons caverneux",
+  "item.dragonseeker.tooltip.detection.roost": "- Dragon perché",
+  "item.dragonseeker.tooltip.detection.tame": "- Dragon apprivoisé",
+  "item.dragonseeker.tooltip.detection.precision": "Precision : %s %%",
+
+  "chat.dragonseeker.legendary_message": "Distance : %s",
+
+  "chat.dragonseeker.godly_message_header": "Dragon proche!",
+  "chat.dragonseeker.godly_message.body": "Distance %s, %s, \nLocation: %s, State: %s",
+  "chat.dragonseeker.godly_message.no_dragons": "Aucune dragon prche"
+}
