@@ -12,6 +12,9 @@
   "item.dragonseeker.tooltip.detection.tame": "- Tamed dragons",
   "item.dragonseeker.tooltip.detection.precision": "Precision: %s %%",
 
+  "item.dragonseeker.music_disc_01": "Je veux vraiment rester à ta maison",
+  "item.dragonseeker.music_disc_01.desc": "Cog Rider - Original sound by Rosa Walton & Hallie Coggins",
+
   "chat.dragonseeker.legendary_message": "Distance: %s",
 
   "chat.dragonseeker.godly_message_header": "Nearby dragon!",

@@ -1,0 +1,10 @@
+{
+  "disc01": {
+    "sounds": [
+      {
+        "name": "dragonseeker:music/disc01",
+        "stream": true
+      }
+    ]
+  }
+}
