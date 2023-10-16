@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "syric.dragonseeker.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "verbose": true,
+  "mixins": [],
+  "client": [
+    "MixinLayerDragonBanner"
+  ],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "dragonseeker.refmap.json"
+}
